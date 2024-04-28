@@ -15,19 +15,19 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="音乐" tvg-logo="" tvg-id="", Good Vibes
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714273772/ei/jGktZpDNCfu9sfIPu_-s0Aw/ip/13.83.123.147/id/L_a3fATxzIY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51099271/txs/51099271%2C51099272%2C51121311%2C51121312/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6XFiDQ6TQZ9DKPpz82SUS-Wjta_1Jfu2H5UazS6wxC3mSlbhaZcyghF/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZtuUWO0zYdfJWguwhuXjNFrp0P3j1-QCPdUJ8UmPFK8CIByyRdU_UGtZAcWMrZIzPvZfeSfXqnbfmXYQMJD5BlLd/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714287332/ei/hJ4tZoWmHeHnsfIP9KupKA/ip/52.159.136.147/id/L_a3fATxzIY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fw-PkcptyRPCwtZtaHtNKfk-Xvf8TgL46wDMuztwd-a2Dg_ZyZHk89w6/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALH9UXfPuE0sr0Le1ylfhI00Zq9sZmpML5k8Itlvtm6kAiEAz6qRw2RPfVd6ZH20eThzrv42CRparGRMFWwg775u2NM%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="音乐" tvg-logo="" tvg-id="", The Good Life Radio
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714273772/ei/jGktZqafNrK-sfIP3uuzmA8/ip/13.83.123.147/id/IkmLXvBfVv0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f719ejZlfuJ_epq9P8R9WsGDVXpisQSrg4hPusvRIJq3CjR1vcdeEAFt/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAI6UI-qn1Exu0VeDNQK05B3AuAQqDQFqUIV2X-DYE5XSAiAxvtmd_4U_j2H-wn_JBLiorIIQpBvlZcqvcgpRd0f97A%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714287333/ei/hZ4tZsG9FMDisfIP5_mKiAo/ip/52.159.136.147/id/IkmLXvBfVv0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyh_R8tW7tIrUul_W_TI32gsycpkW0xCRGLYiJ1DW6Z8Xn7hUqzFIIAz/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgccBQ8WL4nuSW9RmxEXKBqWWcvi-4dP3Rre4Xcu886ksCIQCMuVE1JLy4pOpLxKV2ptszOzdrhsOqoPMj1xKUz9RZvw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="音乐" tvg-logo="" tvg-id="", Lofi Girl
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714273773/ei/jWktZsKDJOvXsfIP5bmx0AE/ip/13.83.123.147/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118565/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-mOmJbFodHpNeIaaG7-JaGyr-lS9ynBXOP2axgk69hBVEu5rj2CX3Hx/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgE3v8p5EdM-0v1jNExr3ZYH5GBzPifBa1jv7G9vRdBMwCIBRON0APCdocAfBu5oT4IgGgGC4usgs4ZHksrBnPcHOX/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="音乐" tvg-logo="" tvg-id="", PrizeSleep Sleeping Music
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="音乐" tvg-logo="" tvg-id="", Relaxing Piano Music
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714273774/ei/jmktZo_1EKLZsfIP4-WHkAE/ip/13.83.123.147/id/-5ajVJ1Yxlg.30/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066120/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7Nz90UpedfoPr7t6SqvyBKRzrfdklfXr4wqlOjr49PqN293yxWSHvEh/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJfjKKFF-LuwhVPlfcx8qP9esr1DhY5UnBqogUUqGnw0AiBMhbhlYYz1jnrqR9qtuh700FGWGbwxvXBPf2YrVYs4Bg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="音乐" tvg-logo="" tvg-id="", Relaxing Covers
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="音乐" tvg-logo="" tvg-id="", Radio Hits Music
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714273776/ei/kGktZuffKfzcsfIP8e2okAo/ip/13.83.123.147/id/HQtFR3mhzOY.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118565/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_5qhq-RfdO2UlKRCgnlCzq5IwwDV-fEx8OdVt0h06Jq2igdz5iQXzqV/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOFWpCXcreOf2cN-cbw67EXOZ1EbqSi53rThcPmuYsdrAiEAnU9C_t4Eu7HT1Qeg_w1kqJFDXXNnWrvL7V_wCZ48NJY%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="音乐" tvg-logo="" tvg-id="", Billboard Hot 100 1
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -90,7 +90,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="综艺" tvg-logo="" tvg-id="", 中视综艺live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714273785/ei/mWktZpCcE4yYsfIPvpuw0As/ip/13.83.123.147/id/ADDSmXoPDY8.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0wp1jz3oCaRSVdJHqCbspVSwSjK7KQUbajI_86KlFRk4lxnOb_4XjPm/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ2YrcDcR5WdG0_L4cglwtJBVvp0Ilb66ITWxbTJHrPCAiBTdLIIeePHTTiZsavva6vtW_qi9DIIRI-yxEO1ep98Zw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="综艺" tvg-logo="" tvg-id="", MIT台湾誌
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -99,34 +99,34 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="" tvg-id="", 台视新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714273788/ei/nGktZrufEsXJsfIPnIG7kAI/ip/13.83.123.147/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118562/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8aeCKsokt97L_yZ7D4cL2JJkvdCXAngdIAv2H5eBQg_-JQ8Zyhu__13/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJYanr0iqlGONFs92e6JSsV7eJQ2GfuQc4EaUBmEfU01AiEAtbQLvnNxucvnBeAbHAhnM_ys0POZ94bj97sULChx-eo%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="" tvg-id="", 三立+新闻
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="" tvg-id="", 三立iNews新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714273790/ei/nmktZoKNJo7BsfIPnPCc4Ac/ip/13.83.123.147/id/CKjSm5ZeehE.85/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51121312/txs/51099271%2C51099272%2C51121311%2C51121312/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2BviFTO5_8IZQ5S73I9mQn7sdohcY8Gg3bpz96GeVGxoXRNLUR4p7Ap/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPktZGAz0mSDRvoSBjnM7jm4Fib0SwX6lghKNk9ZHMzTAiEAov9ZOFzNNAkHk64NP8pTHBG_CYnibRcHX2vufmVWNm4%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="" tvg-id="", 民视新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714273791/ei/n2ktZrnyFvaZsfIPl52pkAo/ip/13.83.123.147/id/ylYJSBUgaMA.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51094389/txs/51094388%2C51094389/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3KbQ9KAN9gsjgMIIvo_rmU5QFxJuNCC6ZZBQbxUWCOnuffxw40GwQBz/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgFzrSYjhwN2_R8k185ABGnmFB3yBmlA4AfLg287iNL_sCIEFw57mmX15Mikz0GJMvfvGLpEYz3uh6JBFgW7ZTen_-/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="" tvg-id="", 中视新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714273792/ei/oGktZq-wFrL3sfIPzred2AU/ip/13.83.123.147/id/TCnaIE_SAtM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fz_3n4i_u2MvpM2tNRCwep1ooxyUoAPqfn7ZYxOheVcLsmDYuVY2eR8C/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOhyD1ulGIPiHbqlB9lHj7oiitwZ8FProMQ34cyiP1zrAiBX3sqOZfyusNpaJmWZR3ZchyGUFoZ2sbnEPjKZrH92dw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="" tvg-id="", 寰宇新闻
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="" tvg-id="", 东森新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714273793/ei/oWktZvuBKoqEsfIPo9mcsAY/ip/13.83.123.147/id/LuQ4S-i5zoE.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f08SQ3lqND1KE3bsF1g9yixKCREIgvcLET-_GDkatfU25PrSaqiRXthr/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALh4cOHuEMybt9j8g3FaNSumSbD3PF1ZeMy3jf1bBC4MAiEA5DPh1p0LNeu2FQGcOhqXmBnIv9l8KxFNA7WpWoAGg6Y%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714287361/ei/oZ4tZuq4GczHsfIP0JK0iAQ/ip/52.159.136.147/id/LuQ4S-i5zoE.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7rB6IVV_XqowqmHXf_XLE9YDi7OsLkEnoGJjm2jOGKv-0GzoeA7aFeb/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgS1HZv-01tmD7LQD_vda1--zRPqI7CrKS4a509fYJFdYCICTqJ6Cozt8TIMOTdROaN_U5exTgjPN6D7fZEAuWBXJu/file/index.m3u8
 
 #EXTINF:-1 group-title="新闻" tvg-logo="" tvg-id="", TVBS新闻 55台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714273794/ei/omktZs_xJaz4sfIPwauv2AE/ip/13.83.123.147/id/2mCSYvcfhtc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fwo8jFubDpPCSR7jFUBYDL5L25WwtTHC1TouMgYM7nU4lQuqQVHY0Iys/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAN9QXDNJyG6g7hQR8CUQP8SfIgoicY74C-Agc_GlOV3OAiEA4vJk8Qbnh9WN40fuhETvLti2CrH9-dmZpq50sXeOzCo%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="" tvg-id="", TVBS新闻 56台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714273795/ei/o2ktZrfHHJqvsfIPpoylCA/ip/13.83.123.147/id/YvdcZ_jpLXE.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f9mVxnixhSnVzhGbL7fz-78StIhRpisOdkSKnQLVaauteK51jEshdvsZ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAK55m55csbTuR-in2o7BshzXXWjfBp8_4sMyD8krzMRrAiBmFgg7fVoeBG2fycM0_KwS6e8-c_YIy2u8h-XoGzxYGg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="" tvg-id="", 三立海外直播
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714273796/ei/pGktZsvZHd_zsfIPsoGDgAY/ip/13.83.123.147/id/FoBfXvlOR6I.64/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51121311/txs/51099271%2C51099272%2C51121311%2C51121312/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fwnWTv0rEQZyb_HQqrmuStMs3eL5eWk4eR5gUja4mpevDi0tks1Ic3CE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgPqaKHlWAtcdDhUM2mMrH3vgYcp8RimrzAX0C4DMBZx0CIH530MnrgHlDp6KL46xj7ZkYKq9xIFe71hTL7EY1jb1V/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="" tvg-id="", 关键时刻
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -135,7 +135,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="" tvg-id="", 中天新闻Talk Show
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714273799/ei/p2ktZrSBMIC8sfIPspW02AE/ip/13.83.123.147/id/WPfPjbOLNfE.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118567/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4Gv2oR88u1cZT8naKrNRo0gPDaMI-fDY_3xPW_gAwA-oO1yg37VB4m-/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQBFlZP3yy1UF0ZtIZH3w9eWiiiFt5YIlv7vwbXFfLkMCIDCzcHqTS-bhJP4_S_h2scK44cYh1NWDutYlTukrqOBL/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="" tvg-id="", 凤凰资讯台
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
